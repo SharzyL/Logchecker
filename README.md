@@ -14,7 +14,7 @@ setting up the necessary programs to validate the checksum, see below for the gi
 
 ## Requirements
 
-* PHP 7.0+
+* PHP 8.0+
 
 ## Optional Requirements
 
@@ -50,7 +50,7 @@ chmod +x /usr/local/bin/logchecker
 
 ```text
 $ logchecker list
-Logchecker 0.11.1
+Logchecker 0.13.0
 
 Usage:
   command [options] [arguments]

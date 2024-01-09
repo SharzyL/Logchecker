@@ -42,10 +42,5 @@
                 "composer run static-analysis"
             ]
         }
-    },
-    "config": {
-        "platform": {
-            "php": "7.3"
-        }
     }
 }
